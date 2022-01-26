@@ -1,7 +1,8 @@
 body {
   margin: 0;
 }
+
 @font-face {
-  src: url("font/Pixel-LCD-7.woff") format("woff");
-  font-family: "pixel";
+  font-family: 'Pixel';
+  src: url('font/Pixel-LCD-7.woff') format('woff');
 }
